@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: assign-13-jpa
+  datasource:
+    url: jdbc:mysql://localhost:3307/db_assign_13_jpa?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Ho_Chi_Minh
+    username: root
+    password: Root@1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
