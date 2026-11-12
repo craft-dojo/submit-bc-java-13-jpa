@@ -1,0 +1,27 @@
+{
+  "info": {
+    "_postman_id": "9c4d2596-f7e9-4008-8eb4-b7c099060961",
+    "name": "BC Java - Assignment 13 - JPA",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "31191982"
+  },
+  "item": [],
+  "variable": [
+    {
+      "key": "baseURL",
+      "value": "http://localhost:8080/api"
+    },
+    {
+      "key": "endpoint1",
+      "value": "students"
+    },
+    {
+      "key": "endpoint2",
+      "value": "categories"
+    },
+    {
+      "key": "endpoint3",
+      "value": "products"
+    }
+  ]
+}
